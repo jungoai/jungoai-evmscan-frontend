@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="164"
+   height="48"
+   viewBox="0 0 164 48"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="logo-jungoai.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.8041682"
+     inkscape:cx="96.654677"
+     inkscape:cy="-2.7566396"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M 14.015,0 C 10.2328,0 6.92331,1.41271 4.08663,4.24455 1.36653,6.94154 0,10.2807 0,14.2555 v 19.489 C 0,37.7193 1.36653,41.052 4.08663,43.749 6.92331,46.5809 10.2328,48 14.015,48 h 25.1674 c 3.7887,0 7.0982,-1.4191 9.9284,-4.251 2.7266,-2.697 4.0866,-6.0297 4.0866,-10.0045 V 0 Z m 29.3901,30.1549 c 0,2.5108 -0.8614,4.617 -2.5841,6.3251 -1.7875,1.7852 -3.8794,2.6841 -6.2757,2.6841 H 18.6457 C 16.2559,39.1641 14.164,38.2652 12.37,36.48 10.6537,34.7719 9.79237,32.6657 9.79237,30.1549 V 17.8387 c 0,-2.5108 0.86133,-4.617 2.57763,-6.3251 1.794,-1.78517 3.8859,-2.67775 6.2757,-2.67775 h 24.7594 z"
+     fill="currentColor"
+     id="path2" />
+  <path
+     d="m 33.6301,23.845 c 0,3.8832 -3.1454,7.0351 -7.0286,7.0351 -3.8832,0 -7.0351,-3.1519 -7.0351,-7.0351 0,-3.8832 3.1519,-7.0286 7.0351,-7.0286 3.8832,0 7.0286,3.1454 7.0286,7.0286 z"
+     fill="currentColor"
+     id="path4" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.5088px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:currentColor;stroke-width:15.6571;stroke-dasharray:none;fill-opacity:1"
+     x="62.163578"
+     y="29.84519"
+     id="text293"><tspan
+       sodipodi:role="line"
+       id="tspan291"
+       x="62.163578"
+       y="29.84519"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:15.6571;fill:currentColor;fill-opacity:1">JungoAI</tspan></text>
+</svg>

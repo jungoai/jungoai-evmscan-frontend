@@ -38,41 +38,29 @@ const Footer = () => {
 
   const BLOCKSCOUT_LINKS = [
     {
-      icon: 'edit' as const,
-      iconSize: '16px',
-      text: 'Submit an issue',
-      url: issueUrl,
-    },
-    {
       icon: 'social/git' as const,
       iconSize: '18px',
-      text: 'Contribute',
-      url: 'https://github.com/blockscout/blockscout',
+      text: 'GitHub',
+      url: 'https://github.com/jungoai',
     },
     {
       icon: 'social/twitter' as const,
       iconSize: '18px',
       text: 'X (ex-Twitter)',
-      url: 'https://www.twitter.com/blockscoutcom',
+      url: 'https://x.com/JungoAI?t=UyFJjzhqKiMEzXs_daUiug&s=09',
     },
     {
-      icon: 'social/discord' as const,
-      iconSize: '24px',
-      text: 'Discord',
-      url: 'https://discord.gg/blockscout',
-    },
-    {
-      icon: 'brands/blockscout' as const,
+      icon: 'social/telega' as const,
       iconSize: '18px',
-      text: 'All chains',
-      url: 'https://www.blockscout.com/chains-and-projects',
+      text: 'Telegram',
+      url: 'https://x.com/JungoAI?t=UyFJjzhqKiMEzXs_daUiug&s=09',
     },
-    {
-      icon: 'donate' as const,
-      iconSize: '20px',
-      text: 'Donate',
-      url: 'https://github.com/sponsors/blockscout',
-    },
+    // {
+    //   icon: 'social/discord' as const,
+    //   iconSize: '24px',
+    //   text: 'Discord',
+    //   url: 'https://discord.gg/blockscout',
+    // },
   ];
 
   const frontendLink = (() => {
@@ -203,7 +191,7 @@ const Footer = () => {
           >
             {
               ([
-                { title: 'Blockscout', links: BLOCKSCOUT_LINKS },
+                { title: 'JungoAI', links: BLOCKSCOUT_LINKS },
                 ...(linksData || []),
               ])
                 .slice(0, colNum)

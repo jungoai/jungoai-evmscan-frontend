@@ -33,7 +33,7 @@ const LogoFallback = ({ isCollapsed, isSmall }: { isCollapsed?: boolean; isSmall
 
   return (
     <IconSvg
-      name={ isSmall ? 'networks/icon-placeholder' : 'networks/logo-placeholder' }
+      name={ isSmall ? 'networks/icon-jungoai' : 'networks/logo-jungoai' }
       width="auto"
       height="100%"
       color={ logoColor }
